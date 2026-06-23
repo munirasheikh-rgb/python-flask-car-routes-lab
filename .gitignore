@@ -67,3 +67,7 @@ package-lock.json
 
 #solution
 solution.py
+
+.vscode/
+.__pycache__/
+.pytest_cache/
